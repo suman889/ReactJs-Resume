@@ -8,7 +8,7 @@ import {FaSnowflake} from "react-icons/fa";
 
 const index = () => {
     return (
-        <div className=' bg-white-300 shadow top-0 fixed w-full flex justify-between items-center py-2'>
+        <div className=' bg-white-300 shadow top-0  w-full flex justify-between items-center py-2'>
             <div className='flex items-center'>
                 <img src={require('../../Assets/Images/Blue 4 (1).png')} alt='' className='w-13 h-13 ml-2' />
                 <img src={require('../../Assets/Images/Archslate.png')} alt='name' className='w-full h-6 pl-4' />
